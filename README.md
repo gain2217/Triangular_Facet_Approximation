@@ -1,2 +1,3 @@
-# Robust_Elastic_Warping
-source codes for Parallax-Tolerant Image Stitching Based on Robust Elastic Warping
+# Triangular_Facet_Approximation
+source codes for 
+> Local-Adaptive Image Alignment based on Triangular Facet Approximation
